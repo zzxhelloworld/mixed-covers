@@ -1,6 +1,6 @@
 # Introduction
 This repository contains various artifacts, such as source code, experimental results, and other materials, that supplement our work on mixed covers.\
-&nbsp;&nbsp;&nbsp;&nbsp;The code for all experiments in our paper can be found in <kbd>exp/</kbd>, in particular experiment 0, experiment 1, ..., experiment 5.\
+&nbsp;&nbsp;&nbsp;&nbsp;The code for all experiments in our paper can be found in <kbd>exp/</kbd>, in particular experiment 0, experiment 1, ..., experiment 6.\
 In the following sections, we describe how our experiments can be reproduced. 
 # Preliminaries: Getting databases ready for experiments
 > 1. Import datasets as SQL databases
